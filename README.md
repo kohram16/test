@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incid
 
 Dieser Fliesstext stammt von [Wikipedia] (https://de.wikipedia.org/wiki/Lorem_ipsum)
 
-Und hier ein ![Bild](Download.html)
+Und hier ein ![Bild]()
 
 Bekannte Autohersteller:
 
